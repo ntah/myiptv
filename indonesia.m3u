@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/jd2L9vjdY0tmXVei2hSg.png",RCTI
+https://cdn-livetv1.metube.id/hls/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/T2lDfPZnM3aMkAnfX5mH.png",GTV
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/oGyMRADwU2cd4uvpcC9q.png",MNCTV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/MHZ3z1VLDVhkdh6AwuxE.png",iNews
+https://cdn-livetv1.metube.id/hls/inewstv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/SJAQak0TFH3ZYQl9mTKh.png",TVRI
+https://cdn-livetv2.metube.id/hls/tvri.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/737QuqQzk3GABfx77mOG.png",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/G7pCMiZsmcjMBCUYH4zR.png",MNC News
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/fmSDYsOEziW6TWqCUda7.png",SCTV
+https://cdn-livetv1.metube.id/hls/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/jYAPYZq8iXkPWHxmSpQP.png",MNC Shop CH. 79
+https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/nHzEw9eTmYEFQj3RZQVS.png",INDOSIAR
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/J5tCBkcAGZAPa8g7Mcip.png",MNC Shop CH. 88
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/dgC1n67x73t73ilqpMVC.png",TRANS TV
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/qi1C3GoEpH8EIDTnsXrH.png",TRANS7
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/0Pqqr0lujAPCeiiJwiSI.png",METRO TV
+https://cdn-livetv1.metube.id/hls/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/Ul5rcwZsR57nYsA6XLCi.png",ANTV
+https://cdn-livetv1.metube.id/hls/antv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/PoClxm8jPWsAkx1mij19.png",TV 0NE
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/jYUwcDSDM87zMDgOF933.png",Extra Joss Futsal Profesional
+https://cdn-stream4.metube.id/hls/TFZ9IcaL9XaPnCnyhPBoEhbLkqccQC1C.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/7JLfsDpc6u073QNBQjw1.png",Friendly Match Women&#8217;s Futsal | Malaysia vs Indonesia
+https://cdn-stream4.metube.id/hls/2PYOPrWKTcsXyRL3Z1kck5IgN0IJ2zjH.m3u8
